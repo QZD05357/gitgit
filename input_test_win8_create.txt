@@ -1,2 +1,3 @@
 input test
 win8 create
+win7 modify
